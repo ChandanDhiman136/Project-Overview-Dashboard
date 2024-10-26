@@ -40,7 +40,3 @@ The interactive dashboard provides insights that help in:
 - **Power BI Integration:** Developed skills in connecting MySQL with Power BI, creating real-time visualizations.
 - **Dashboard Design:** Improved ability to design dashboards with filtering options to cater to stakeholder needs.
 - **Problem-Solving Skills:** Enhanced troubleshooting for data inconsistencies and achieved accuracy in the final visualization.
-
---- 
-
-This breakdown provides a clear view of your project approach, key steps, insights, and the knowledge gained through this experience. Let me know if you'd like further details on any part!
